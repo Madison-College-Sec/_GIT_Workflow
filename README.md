@@ -2,12 +2,12 @@
 Details of the git workflow used by this team
 
 ## Overview
-Master
-Branches
-Commits
-Pull Requests
-Merge
-Revisions
+* Master
+* Branches
+* Commits
+* Pull Requests
+* Merge
+* Revisions
 
 ## References
 https://sandofsky.com/blog/git-workflow.html </br>
