@@ -10,5 +10,5 @@ Merge
 Revisions
 
 ## References
-https://sandofsky.com/blog/git-workflow.html
+https://sandofsky.com/blog/git-workflow.html </br>
 https://git-scm.com/book/en/v2/Git-Branching-Basic-Branching-and-Merging
