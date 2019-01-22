@@ -2,6 +2,7 @@
 Details of the git workflow used by this team
 
 ## Overview
+* Repository Creation
 * Master
 * Branches
 * Commits
